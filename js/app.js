@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  $('.sidenav').sidenav();
   $('.parallax').parallax();
+  $('.sidenav').sidenav();
   
 });
