@@ -52,4 +52,9 @@
  footer.page-footer {
    margin: 0;
  }
+
+ .anchor {
+   padding-top: 64px;
+   margin-top: -64px;
+ }
  
