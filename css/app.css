@@ -11,6 +11,11 @@
  p {
    line-height: 2rem;
  }
+
+ p.no-top-bottom-margin {
+   margin-top: 0px;
+   margin-bottom: 0px;
+ }
  
  .sidenav-trigger {
    color: #26a69a;
